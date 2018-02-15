@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ keyboardLite()
+comment0.text=\r\n\ Allows\ the\ "a"\ and\ "c"\ \ key\ to\ be\ used\ to\ play\ a\ sound\ of\ a\ certain\ note\ and\ pitch\r\n\ @param\ None\r\n\ @return\ Void\r\n
+comment1.params=
+comment1.target=void\ keyboard()
+comment1.text=\r\n\ Allows\ a\ certain\ number\ of\ keys\ to\ be\ used\ a\ notes\ with\ different\ pitches\r\n\ @param\ None\r\n\ @return\ Void\r\n
+comment2.params=notes
+comment2.target=void\ keyboardAuto(java.lang.String[])
+comment2.text=\r\n\ Using\ an\ array\ of\ Strings\ as\ a\ parameter,\ notes\ are\ played\ based\ on\ what\ and\ how\ many\ characters\ are\r\n\ in\ each\ element\ of\ the\ array\r\n\ @param\ notes\ is\ a\ array\ of\ Strings,\ used\ to\ deteremine\ which\ notes\ will\ be\ played\ together\r\n\ @return\ Void\r\n
+comment3.params=
+comment3.target=void\ keyboardIn()
+comment3.text=\r\n\ Reads\ a\ text\ file\ and\ based\ on\ the\ characters\ in\ it,\ creates\ a\ melody\ by\ calling\ keyboardAuto\r\n\ @param\ None\r\n\ @return\ Void\r\n
+numComments=4

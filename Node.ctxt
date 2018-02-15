@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=val
+comment0.target=Node(java.lang.Object)
+comment0.text=\r\n\ Assigns\ value\ to\ the\ input\ value.\r\n\ @param\ val\ A\ generic\ object\ to\ be\ stored\ in\ value.\r\n\ @return\ None\r\n
+comment1.params=
+comment1.target=java.lang.Object\ getData()
+comment1.text=\r\n\ Gets\ the\ value\ of\ the\ Node\ object.\r\n\ @param\ None\r\n\ @return\ T\ The\ value\ of\ the\ Node\ object.\r\n
+comment2.params=
+comment2.target=Node\ getNext()
+comment2.text=\r\n\ Gets\ the\ next\ Node\ object.\r\n\ @param\ None\r\n\ @return\ Node\ The\ Node\ object\ that\ is\ assigned\ to\ next.\r\n
+comment3.params=
+comment3.target=Node\ getPrevious()
+comment3.text=\r\n\ Gets\ the\ previous\ Node\ object.\r\n\ @param\ None\r\n\ @return\ Node\ The\ Node\ object\ that\ is\ assigned\ to\ previous.\r\n
+comment4.params=in
+comment4.target=void\ setNext(Node)
+comment4.text=\r\n\ Assigns\ the\ variable\ next\ of\ the\ Node\ object\ to\ the\ Node\ of\ the\ parameter.\r\n\ @param\ in\ A\ Node\ object\ that\ is\ assigned\ to\ next.\r\n\ @return\ Void\r\n
+comment5.params=in
+comment5.target=void\ setPrevious(Node)
+comment5.text=\r\n\ Assigns\ the\ variable\ previous\ of\ the\ Node\ object\ to\ the\ Node\ of\ the\ parameter.\r\n\ @param\ in\ A\ Node\ object\ that\ is\ assigned\ to\ previous.\r\n\ @return\ Void\r\n
+numComments=6

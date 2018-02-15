@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=frequency
+comment0.target=InstrumentString(double)
+comment0.text=\r\n\ Creates,\ using\ a\ given\ frequency,\ an\ InstrumentString\ object,\ and\ fills\ in\ a\ LinkedList\ with\r\n\ the\ appropriate\ numbers\r\n\ @param\ frequency\ a\ double\ that\ is\ used\ to\ calculate\ the\ length\ of\ the\ LinkedList\r\n\ @return\ None\r\n
+comment1.params=arrayFrequency
+comment1.target=InstrumentString(double[])
+comment1.text=\r\n\ Takes\ an\ array\ and\ fills\ in\ the\ LinkedList\ using\ the\ values\ from\ the\ array\r\n\ @param\ arrayFrequency\ a\ double\ array\ used\ to\ fill\ in\ the\ LinkedList\r\n\ @return\ None\r\n
+comment2.params=
+comment2.target=void\ pluck()
+comment2.text=\r\n\ Replaces\ all\ of\ the\ current\ values\ in\ the\ LinkedList\ with\ random\ values\ \r\n\ to\ simulate\ the\ plucking\ of\ a\ string\r\n\ @param\ None\r\n\ @return\ Void\r\n
+comment3.params=
+comment3.target=void\ tic()
+comment3.text=\r\n\ Applies\ the\ Karplus-Strong\ Update\ by\ taking\ in\ values\ from\ the\ LinkedList\r\n\ and\ inserting\ the\ result\ on\ the\ end\ of\ the\ LinkedList\r\n\ @param\ None\r\n\ @return\ Void\r\n
+comment4.params=
+comment4.target=double\ sample()
+comment4.text=\r\n\ Returns\ the\ first\ element\ of\ the\ LinkedList\r\n\ @param\ None\r\n\ @return\ A\ double\ which\ is\ the\ first\ element\ of\ the\ LinkedList\r\n
+comment5.params=
+comment5.target=int\ time()
+comment5.text=\r\n\ Returns\ the\ current\ time\ of\ the\ object\r\n\ @param\ None\r\n\ @return\ A\ integer\ of\ the\ attibute\ currentTime\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Displays\ the\ LinkedList\ as\ a\ String\r\n\ @param\ None\r\n\ @return\ A\ String\ representing\ the\ contents\ of\ the\ LinkedList\r\n
+numComments=7
